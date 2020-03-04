@@ -1,0 +1,11 @@
+com\bos\offlinetransaction\model\RequestData.class
+com\bos\offlinetransaction\model\Transaction.class
+com\bos\offlinetransaction\model\TransactionDetail.class
+com\bos\offlinetransaction\controller\OfflineTransactionController.class
+com\bos\offlinetransaction\repository\ProductRepository.class
+com\bos\offlinetransaction\service\OfflineTransactionService.class
+com\bos\offlinetransaction\model\Product.class
+com\bos\offlinetransaction\OfflinetransactionApplication.class
+com\bos\offlinetransaction\repository\TransactionRepository.class
+com\bos\offlinetransaction\repository\TransactionDetailRepository.class
+com\bos\offlinetransaction\model\ProductPurchased.class

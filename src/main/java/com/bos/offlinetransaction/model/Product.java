@@ -14,6 +14,8 @@ import javax.persistence.*;
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id_product;
     private int id_seller;
+    private String product_name;
     private int stock;
 }

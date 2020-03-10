@@ -80,16 +80,16 @@ public class OfflineTransactionService {
                     tmp_transactionDetail.setSell_price(p_requestData.getProduct().get(i).getSell_price());
                     g_transactionDetailRepository.save(tmp_transactionDetail);
 
-                    l_output = new ResultEntity("Y", ErrorCode.B000);
+                    l_output = new ResultEntity("Y", ErrorCode.BIT_000);
                 }
 
             }else {
-                l_output = new ResultEntity(l_arrayErrorMessage, ErrorCode.B999);
+                l_output = new ResultEntity(l_arrayErrorMessage, ErrorCode.BIT_999);
             }
 
         }catch (Exception e){
             e.printStackTrace();
-            l_output = new ResultEntity(e.toString(), ErrorCode.B999);
+            l_output = new ResultEntity(e.toString(), ErrorCode.BIT_999);
         }
 
         return l_output;

@@ -33,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../product-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="OfflinetransactionApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -73,26 +73,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583325852913" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1583811307908">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584410512103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583811307908" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583395019858">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584410512103" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584518112276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583395019858" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583395019858">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584518112276" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584518112276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583395019858" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583395019858">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584518112276" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584518112276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583395019858" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583395019858">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584518112276" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584518112276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583395019858" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584518112276" />
     <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583224300377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

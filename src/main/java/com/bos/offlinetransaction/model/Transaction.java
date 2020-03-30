@@ -17,6 +17,7 @@ public class Transaction {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id_transaction;
     private Timestamp order_time;
+    private Timestamp confirmation_time;
     private double total_payment;
     private int status;
     private int id_seller;

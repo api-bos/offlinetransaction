@@ -54,6 +54,7 @@ public class OfflineTransactionService {
                 Transaction tmp_transaction = new Transaction();
                 Timestamp l_timestamp = new Timestamp(System.currentTimeMillis());
                 tmp_transaction.setOrder_time(l_timestamp);
+                tmp_transaction.setConfirmation_time(l_timestamp);
                 tmp_transaction.setId_seller(p_requestData.getId_seller());
                 tmp_transaction.setStatus(3);
                 tmp_transaction.setTotal_payment(p_requestData.getTotal_payment());
